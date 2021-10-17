@@ -2,9 +2,9 @@
 
 ## Clone the Remote Repository
 
-This will copy some jQuery program files to you ``htdocs`` folder.
+This will copy some UnderScore program files to you ``htdocs`` folder.
 
-1.	Download the [jQuery repository](https://github.com/noucampdotorgCSAD2021/UnderScore)
+1.	Download the [UnderScore repository](https://github.com/noucampdotorgCSAD2021/UnderScore)
 
 1.	Copy the `UnderScore-main` folder into your `htdocs` folder.  
 
